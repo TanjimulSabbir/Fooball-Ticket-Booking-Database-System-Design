@@ -61,7 +61,6 @@ Foreign keys in the `Bookings` table (`user_id`, `match_id`) enforce referential
 
 The full Entity Relationship Diagram (with Crow's Foot notation showing cardinality) is available here:
 
-`[Insert your Draw.io / Lucidchart shareable link here]`
 
 ## 🛠️ Tech / Tools Used
 
@@ -84,8 +83,7 @@ The full Entity Relationship Diagram (with Crow's Foot notation showing cardinal
    git clone <your-repo-url>
    ```
 2. Run `schema.sql` to create the tables
-3. Run `seed_data.sql` to populate sample data
-4. Run queries from `queries.sql` to explore the dataset
+
 
 ## 📌 Key SQL Concepts Demonstrated
 
