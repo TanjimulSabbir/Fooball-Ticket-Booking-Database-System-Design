@@ -64,7 +64,7 @@ The full Entity Relationship Diagram (with Crow's Foot notation showing cardinal
 
 ## 🛠️ Tech / Tools Used
 
-- SQL (MySQL / PostgreSQL — specify your dialect)
+- SQL (PostgreSQL)
 - Draw.io / Lucidchart for ERD design
 
 ## 📁 Repository Structure
@@ -73,14 +73,14 @@ The full Entity Relationship Diagram (with Crow's Foot notation showing cardinal
 ├── README.md
 ├── schema.sql             
 ├── QUERY.sql          
-└── erd/                 
+└── erd.md                
 ```
 
 ## 🚀 Getting Started
 
 1. Clone the repository
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/TanjimulSabbir/Fooball-Ticket-Booking-Database-System-Design
    ```
 2. Run `schema.sql` to create the tables
 
